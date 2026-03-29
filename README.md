@@ -1,70 +1,78 @@
-# Getting Started with Create React App
+# 📊 React Dashboard – Data Visualization App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern and responsive React dashboard built to visualize real-time data using interactive charts and a clean user interface. This project demonstrates strong frontend development skills including API integration, state management, and UI design.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 Live Demo
+🔗 (Add after deployment)
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📸 Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- 📊 Interactive data visualization using Recharts (Bar Chart)
+- 🌐 API integration using Axios (JSONPlaceholder API)
+- 🌙 Dark Mode toggle (Light/Dark theme support)
+- 📂 Sidebar navigation (Admin dashboard layout)
+- ⚡ Loading state and error handling
+- 🔄 Dynamic data rendering
+- 📱 Responsive and clean UI design
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠️ Tech Stack
 
-### `npm run build`
+- React.js  
+- JavaScript (ES6+)  
+- Axios  
+- Recharts  
+- HTML5  
+- CSS3  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 📁 Project Structure
+src/
+┣ components/
+┃ ┣ Sidebar.js
+┃ ┣ UserChart.js
+┣ pages/
+┃ ┗ Dashboard.js
+┣ services/
+┃ ┗ api.js
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## ⚙️ Installation & Setup
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+git clone https://github.com/AKHIL9470/react-dashboard.git
+cd react-dashboard
+npm install
+npm start
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+💡 Key Highlights
+Built reusable React components for scalability
+Managed application state using React Hooks (useState, useEffect)
+Implemented API calls and handled asynchronous data
+Designed a user-friendly dashboard interface
+Optimized layout for better performance and user experience
+🔮 Future Improvements
+Add authentication (Login/Signup)
+Add filters and search functionality
+Add multiple charts (Line, Pie)
+Upgrade UI using Tailwind CSS
+Connect with real backend (Node.js / Firebase)
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 👨‍💻 Author
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**Akhil Dyagala**  
+📧 akhilakhil4566@gmail.com  
+🔗 GitHub: https://github.com/AKHIL9470  
+🔗 Portfolio: https://akhil9470.github.io/Portfolio1  
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+⭐ If you like this project, give it a star!
