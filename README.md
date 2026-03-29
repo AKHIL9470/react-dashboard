@@ -51,6 +51,7 @@ git clone https://github.com/AKHIL9470/react-dashboard.git
 cd react-dashboard
 npm install
 npm start
+---
 💡 Key Highlights
 Built reusable React components for scalability
 Managed application state using React Hooks (useState, useEffect)
