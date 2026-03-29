@@ -5,7 +5,7 @@ A modern and responsive React dashboard built to visualize real-time data using 
 ---
 
 ## 🚀 Live Demo
-🔗 (Add after deployment)
+🔗 https://react-dashboard-delta-three.vercel.app/
 
 ---
 
@@ -51,7 +51,6 @@ git clone https://github.com/AKHIL9470/react-dashboard.git
 cd react-dashboard
 npm install
 npm start
-
 💡 Key Highlights
 Built reusable React components for scalability
 Managed application state using React Hooks (useState, useEffect)
@@ -64,15 +63,15 @@ Add filters and search functionality
 Add multiple charts (Line, Pie)
 Upgrade UI using Tailwind CSS
 Connect with real backend (Node.js / Firebase)
----
-
-## 👨‍💻 Author
-
-**Akhil Dyagala**  
-📧 akhilakhil4566@gmail.com  
-🔗 GitHub: https://github.com/AKHIL9470  
-🔗 Portfolio: https://akhil9470.github.io/Portfolio1  
 
 ---
+👨‍💻 Author
+
+Akhil Dyagala
+📧 akhilakhil4566@gmail.com
+
+🔗 GitHub: https://github.com/AKHIL9470
+
+🔗 Portfolio: https://akhil9470.github.io/Portfolio1
 
 ⭐ If you like this project, give it a star!
